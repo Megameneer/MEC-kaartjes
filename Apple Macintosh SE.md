@@ -1,26 +1,26 @@
 
 # Apple Macintosh SE
-Jaar: 1987
-Besturingssysteem: Mac OS 3.3 tot 3.4, 4.0 tot 6.0.2, 6.0.3 tot 6.0.8 of 7.0 tot 7.5.5
+- Jaar: 1987
+- Besturingssysteem: Mac OS 3.3 tot 3.4, 4.0 tot 6.0.2, 6.0.3 tot 6.0.8 of 7.0 tot 7.5.5
 
-Processor: Motorola 68000
-Aantal kernen: 1
-Kloksnelheid processor: 7,8 MHz
-Aantal bits: 32
+- Processor: Motorola 68000
+- Aantal kernen: 1
+- Kloksnelheid processor: 7,8 MHz
+- Aantal bits: 32
 
-Beeldscherm: 9 inch beeldbuis
-Resolutie: 512x384 pixels
+- Beeldscherm: 9 inch beeldbuis
+- Resolutie: 512x384 pixels
 
-Hoeveelheid RAM-geheugen: 1 of 4 MB
-Grootte harde schijf: 20MB, uit te breiden to 40MB
-Harde schijf interface: SCSI[*][1]
-Floppy lezer: 800KB
-Externe media: Floppy lezer, uit te breiden met externe floppylezer
+- Hoeveelheid RAM-geheugen: 1 of 4 MB
+- Grootte harde schijf: 20MB, uit te breiden to 40MB
+- Harde schijf interface: SCSI[1]
+- Floppy lezer: 800KB
+- Externe media: Floppy lezer, uit te breiden met externe floppylezer
 
-Netwerkmogelijkheden: In staat tot AppleTalk
+- Netwerkmogelijkheden: In staat tot AppleTalk
 
 
-De originele Apple Macintosh was de eerste computer met een graphische gebruikersinterface[**][2]. Dat betekent dat het de eerste computer was met een muis, en een bureaublad, waarop programma's in vensters werken. Alle computers vóór de Macintosh maakte slechts gebruik van een toetsenbord, en konden alleen text en simpele afbeeldingen weergeven.
+De originele Apple Macintosh was de eerste computer met een graphische gebruikersinterface[2]. Dat betekent dat het de eerste computer was met een muis, en een bureaublad, waarop programma's in vensters werken. Alle computers vóór de Macintosh maakte slechts gebruik van een toetsenbord, en konden alleen text en simpele afbeeldingen weergeven.
 
 De Macintosh werd aangeprijsd als de eerste computer die de gewone man kon gebruiken. In tegenstelling to de daarvoor beschikbare opdrachtregel-gebaseerde computers, hoefde je voor de Macintosh geen commando's uit je hoofd te leren. De graphische interface sprak eigenlijk voor zich. Bovendien werd de Macintosh geleverd met MacWrite en MacPaint, een textverwerker en en
 en tekenprogramma. Voornamelijk MacPaint was revolutionair, omdat er daarvoor nog geen tekenprogramma's waren. Verder werd de eerste versie van Microsoft Word gemaakt voor de Macintosh. Dit alles heeft ervoor gezorgd dat men computers ging maken zoals we ze nu kennen.
