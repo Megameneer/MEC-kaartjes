@@ -21,7 +21,7 @@ In 2006 werd de Raspberry Pi Foundation opgericht door een paar mensen uit het V
 
 De Raspberry Pi maakt gebruik van een zogeheten ARM-processor, in plaats van de meeste computers die mensen thuis gebruiken, die een x86-processor gebruiken. Besturingssystemen die op gewone computers werken, werken dus niet op de Raspberry Pi en andersom. Gelukkig zijn veel Linuxdistributies beschikbaar voor zowel x86 als ARM processors, onder andere omdat de RPi (zoals de naam door liefhebbers wordt afgekort) de ARM-architectuur gebruikt. Hoewel er technisch gezien Windows-versies zijn voor ARM, zijn deze niet op een SD kaart te krijgen als gewone consument. Bovendien heeft de RPi hier niet genoeg rekenkracht voor. De meeste gebruikers zullen dus moeten leren om te gaan met andere besturingssytemen. 
 
-Maar doordat je het besturingssysteem kant en klaar op de SD-kaart kan stoppen, is experimenteren makkelijk. Op deze RPi staat Risc OS, een besturingssysteem speciaal gemaakt voor de ARM-architectuur. Het kan niet draaien op normale computers, daarom is het vrij onbekend.
+Maar doordat je het besturingssysteem kant en klaar op de SD-kaart kan stoppen, is experimenteren makkelijk. Op deze RPi staat Risc OS, een besturingssysteem speciaal gemaakt voor ARM-processoren. Het kan niet draaien op normale computers, daarom is het vrij onbekend.
 
 Je kreeg er verder niks bij: het besturingssysteem moest je zelf downloaden en de SD-kaart voor het besturingssysteem, de HDMI-beeldschermkabel, de voeding (een micro-USB kabel, waarmee ook de meeste smartphones worden opgeladen) en zelfs de behuizing (de buitenkant) moest je er zelf los bij kopen. Dit om de prijs zo laag mogelijk te houden.
 
