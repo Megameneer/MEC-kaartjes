@@ -34,22 +34,22 @@ Dit model is de Macintosh SE. Deze is op een aantal manieren beter dan de origin
 
 De Macintosh SE is de vierde Macintosh. De anderen zijn:
 
-1. De originele Macintosh, ofwel Macintosh 128K. Had een 400KB floppy lezer en 128KB werkgeheugen.
+1. De originele Macintosh, ofwel Macintosh 128K. Had een 400 kB diskettelezer en 128 kB werkgeheugen.
 
-2. Macintosh 512K. Had 512KB werkgeheugen, en werd ook geleverd met 800KB floppy lezer (als Macintosh 512Ke).
+2. Macintosh 512K. Had 512 kB werkgeheugen, en werd ook geleverd met 800 kB diskettelezer (als Macintosh 512Ke).
 
-3. Macintosh plus. Had 1MB werkgeheugen en ondersteuning voor Externe SCSI[*][1].
+3. Macintosh Plus. Had 1 MB werkgeheugen en ondersteuning voor externe SCSI[*][1].
 
 4. Macintosh SE, deze Macintosh hier. 
 
 5. Macintosh Classic, de eerste Macintosh die verkocht werd voor minder dan $1000. Bevatte weinig verbeteringen over de Macintosh Plus.
 
-6. Macintosh SE/30, een Macintosh SE met meer uitbreidingsmogelijkheden, een snellere processor, en een grotere harde schijf.
+6. Macintosh SE/30, een Macintosh SE met meer uitbreidingsmogelijkheden, een snellere processor en een grotere harde schijf.
 
 7. Macintosh Classic II, die bijna identiek is aan de SE/30
 
 8. Macintosh Color Classic, de eerste Macintosh met een kleurenscherm. Dit scherm had dezelfde resolutie als de andere Macintoshes, maar kon 265 verschillende kleuren tonen. Het scherm was groter dan de andere Macintoshes en daarom had dit model een andere behuizing.
 
-[1] De SCSI in de Macintoshes voldoet niet volledig aan de SCSI standaard, omdat de SCSI standaard in die tijd nog niet helemaal af was.
+[1] De SCSI in de Macintoshes voldoet niet volledig aan de SCSI-standaard, omdat de SCSI-standaard in die tijd nog niet helemaal af was.
 
-[2] Xerox had al een graphische interface ontwikkeld voordat Apple dat deed; Apple heeft zelf het idee gekregen van een presentatie van Xerox. De interface van Xerox sas echter traag en onpraktisch, en is nooit beschikbaar geweest voor consumenten. Microsoft heeft later zijn eigen versie van de graphische gebruikersinterface gemaakt, genaamd Windows.
+[2] Xerox had al een grafische interface ontwikkeld voordat Apple dat deed; Apple heeft zelf het idee gekregen van een presentatie van Xerox. De interface van Xerox was echter traag en onpraktisch en is nooit beschikbaar geweest voor consumenten. Microsoft heeft later zijn eigen versie van de grafische gebruikersinterface gemaakt, genaamd Windows.
