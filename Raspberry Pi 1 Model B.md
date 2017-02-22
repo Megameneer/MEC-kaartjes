@@ -1,22 +1,21 @@
-
 # Raspberry Pi 1 Model B
-Jaar: 2012
-Besturingssysteem: Risc OS 5 uitgave 14
+- Jaar: 2012
+- Besturingssysteem: Risc OS 5 uitgave 14
 
-Processor: ARM1176JZF-6
-Aantal kernen: 1
-Kloksnelheid processor: 700 MHz
-Aantal bits: 32
-Familie processor: ARM11
-Architectuur processor: ARMv6Z
+- Processor: ARM1176JZF-6
+- Aantal kernen: 1
+- Kloksnelheid processor: standaard 700 MHz, op te voeren door een instelling in een tekstbestand aan te passen
+- Aantal bits: 32
+- Familie processor: ARM11
+- Architectuur processor: ARMv6Z
 
-Grafische unit: Broadcom VideoCore IV
-Kloksnelheid grafische unit: 250 MHz
-Met speciale chip om H.264-videos (populair videoformaat van Nvidia) op Full HD-kwaliteit met 30 beelden per seconde te decoderen (omzetten van bestand naar beeld)
+- Grafische unit: Broadcom VideoCore IV
+- Kloksnelheid grafische unit: 250 MHz
+- Met speciale chip om H.264-videos (populair videoformaat van Nvidia) op Full HD-kwaliteit met 30 beelden per seconde te decoderen (omzetten van bestand naar beeld)
 
-Hoeveelheid RAM/videogeheugen: 512 MB
-(Er is 512 MB beschikbaar. Dit wordt gedeeld door de processor en de grafische unit in een door de gebruiker vastgestelde verhouding)
-Opslagmogelijkheid: SD-kaart
+- Hoeveelheid RAM/videogeheugen: 512 MB
+- (Er is 512 MB beschikbaar. Dit wordt gedeeld door de processor en de grafische unit in een door de gebruiker vastgestelde verhouding)
+- Opslagmogelijkheid: SD-kaart
 
 In 2006 werd de Raspberry Pi Foundation opgericht door een paar mensen uit het Verenigd Koninkrijk. Ze waren geschrokken van de slechte computerlessen op basisscholen, daarom maakten ze een computer die zo goedkoop was (maar toch nog een beetje snel), dat scholen voor elk kind er eentje kon kopen, zodat hij of zij kon leren programmeren. Het zou dan ook door de prijs niet erg zijn als er eentje kapot ging. Op het aanbevolen besturingssysteem (een Linuxdistributie) zat een heleboel programma’s om mee te leren programmeren, voornamelijk in de taal Python, (vandaar het woord “Pi” in de naam). Er zijn ook veel andere besturingssystemen beschikbaar, waarvan de meesten zijn Linuxdistributies zijn. 
 

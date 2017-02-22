@@ -1,4 +1,3 @@
-
 # Apple Macintosh SE
 - Jaar: 1987
 - Besturingssysteem: Mac OS 3.3 tot 3.4, 4.0 tot 6.0.2, 6.0.3 tot 6.0.8 of 7.0 tot 7.5.5
